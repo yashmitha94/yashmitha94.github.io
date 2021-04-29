@@ -1,0 +1,18 @@
+<div class="grid_lottie_holder">
+          <div class="item_lottie_holder">
+            <lottie-player class="lottie_progress" src="lottie/25.json" background="transparent" speed="0.6"></lottie-player>
+            <p>Register Yourself</p>
+          </div>
+          <div class="item_lottie_holder">
+            <lottie-player class="lottie_progress" src="lottie/50.json" background="transparent" speed="0.6"></lottie-player>
+            <p>Select a Problem area</p>
+          </div>
+          <div class="item_lottie_holder">
+            <lottie-player class="lottie_progress" src="lottie/75.json" background="transparent" speed="0.6"></lottie-player>
+            <p>Attend Webinars</p>
+          </div>
+          <div class="item_lottie_holder">
+            <lottie-player class="lottie_progress" src="lottie/95.json" background="transparent" speed="0.6"></lottie-player>
+            <p>Submit your entry</p>
+          </div>
+        </div>
